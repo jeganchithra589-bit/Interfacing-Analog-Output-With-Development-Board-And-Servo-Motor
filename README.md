@@ -46,6 +46,9 @@ void loop()
 ```
 # Output:
 
+<img width="1362" height="840" alt="Screenshot 2026-11-24 140715" src="https://github.com/user-attachments/assets/6fa0b7ce-dfaa-445d-b430-4f180cc10da5" />
+<img width="1917" height="745" alt="Screenshot 2026-11-24 140734" src="https://github.com/user-attachments/assets/9e859d22-b377-42a1-b0de-713c994d687b" />
+
 
 # Result:
 Thus, the servo motor was successfully interfaced with the Arduino Uno development board, and its angular position was controlled at 45°, 90°, 135°, and 180° using the Servo library.
